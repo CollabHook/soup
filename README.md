@@ -1,6 +1,6 @@
 <h1 align="center"> Soup </h1> <br>
 <p align="center">
-  <a href="https://JustinFaler.com">
+  <a href="https://collabhook.software">
   </a>
 </p>
 
@@ -44,7 +44,7 @@ This type of attack is reffered to as a TDoS or Telephony Denial of Service atta
 
 ## Installation
 
-* `$ git clone https://github.com/Jfaler/soup`
+* `$ git clone https://github.com/CollabHook/soup`
 
 
 ## Usage
@@ -60,13 +60,9 @@ Microsoft Visual Studio 2015
 
 ## Authors
 
-* **Justin Faler** - *Initial work* - [Jfaler](https://github.com/Jfaler)
+* **CollabHook (Reed)** - *Entire Project Coder*
 
-* **Zachary Scally** - *Initial work* - [zscally](https://github.com/zscally)
 
-* **Jesse Morgan** - *Initial work* - [morgajel](https://github.com/morgajel)
-
-See also the list of [contributors](https://github.com/Jfaler/soup/contributors) who participated in this project.
 
 
 ## Contributing
@@ -81,13 +77,13 @@ See also the list of [contributors](https://github.com/Jfaler/soup/contributors)
 
 Want to report a bug, request a feature, contribute or translate Soup?
 
-* Browse our [issues](https://github.com/Jfaler/soup/issues), comment on proposals, report bugs.
+
 * Clone the Soup repo, make some changes according to our development guidelines and issue a pull-request with your changes.
-* Anything you want to tell us please send it to 📥 [jfaler216@student.msjc.edu](mailto:jfaler216@student.msjc.edu)
-* If you need technical support or customization service, contact us: 📥 [jfaler216@student.msjc.edu](mailto:jfaler216@student.msjc.edu)
+* Anything you want to tell us please send it to 📥 [collabhook@collab.software](mailto:collab@collab.software)
+* If you need technical support or customization service, contact us: 📥 [collabhook@collab.software]
 
 ## Donate
-Every satoshi of your kind donation goes into the ongoing work of making this project more awesome. Want to sponsor this project? Send a donation & logo to 📥 [jfaler216@student.msjc.edu](mailto:jfaler216@student.msjc.edu)
+Every satoshi of your kind donation goes into the ongoing work of making this project more awesome. Want to sponsor this project? Send a donation & logo to 📥 [collabhook@collab.software](mailto:collabhook@collab.software)
 
 * BTC: 1FThmBBG2u8vx4i3wJ9eieNn8TtcaRnCfm
 * LTC: LR6PhnAtBDgrpbgRRFYR7RrYPtwVKFL2it
